@@ -1,1 +1,2 @@
 \
+robot -d out test-calculator.robot
